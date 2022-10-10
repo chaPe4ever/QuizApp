@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">MyQuizApp</string>
+    <string name="hint_text_input_field">e.g. Petros</string>
+    <string name="please_enter_your_name">Please enter your name</string>
+    <string name="welcome">Welcome</string>
+    <string name="start">Start</string>
+    <string name="quiz_app">Quiz App!</string>
+    <string name="submit">SUBMIT</string>
+    <string name="hey_congratulations">Hey, Congratulations!</string>
+    <string name="result">Result</string>
+    <string name="username">Username</string>
+    <string name="your_score_is_9_out_of_10">Your score is 9 out of 10</string>
+</resources>
